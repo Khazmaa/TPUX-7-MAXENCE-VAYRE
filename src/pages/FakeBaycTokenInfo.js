@@ -1,7 +1,6 @@
 import { useState } from "react";
 import { IpfsImage } from 'react-ipfs-image';
 import Web3 from "web3";
-import Home from "./Home";
 import Navigation from "../components/Navigation.js";
 
 

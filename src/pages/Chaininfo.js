@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from "react";
 import detectEthereumProvider from "@metamask/detect-provider";
 import { formatBalance, formatChainAsNum } from '../utils' ;
-import { redirect } from "react-router-dom";
 import Navigation from "../components/Navigation";
 
 
